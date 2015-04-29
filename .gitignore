@@ -1,0 +1,21 @@
+*.bat
+*.suo
+*.user
+
+SampleProject1/SampleProject1.Module/bin/
+SampleProject1/SampleProject1.Module/obj/
+SampleProject1/SampleProject1.Module.Win/bin/
+SampleProject1/SampleProject1.Module.Win/obj/
+SampleProject1/SampleProject1.Win/bin/
+SampleProject1/SampleProject1.Win/obj/
+
+SampleProject1/Quantum Whale/QWhale.Common.dll
+SampleProject1/Quantum Whale/QWhale.Common.xml
+SampleProject1/Quantum Whale/QWhale.Editor.dll
+SampleProject1/Quantum Whale/QWhale.Editor.xml
+SampleProject1/Quantum Whale/QWhale.Syntax.dll
+SampleProject1/Quantum Whale/QWhale.Syntax.xml
+SampleProject1/Quantum Whale/QWhale.Syntax.Parsers.dll
+SampleProject1/Quantum Whale/QWhale.Syntax.Parsers.xml
+SampleProject1/Quantum Whale/QWhale.Syntax.Schemes.dll
+SampleProject1/Quantum Whale/QWhale.Syntax.Schemes.xml

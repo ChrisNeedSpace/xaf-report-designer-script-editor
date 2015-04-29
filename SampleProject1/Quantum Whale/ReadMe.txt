@@ -1,0 +1,1 @@
+In this folder you should place the Quantum Whale libs.
