@@ -46,6 +46,11 @@ Create a report, click on a designer, go to Scripts tab.
 + SampleProject1.Module.Win\\ReportDesign\\ScriptEditorService.cs
 + SampleProject1.Module.Win\\ReportDesign\\SimpleScriptEditor.cs
 
+-------
+Caution
+-------
+You have to download Quantum Whale dlls yourself as I do not have proprietary rights for them.
+
 ------------
 Installation
 ------------
