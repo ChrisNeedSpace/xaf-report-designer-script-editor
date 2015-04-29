@@ -14,6 +14,19 @@ This is a feature for **DevExpress eXpressAppFramework (XAF)** that provides a c
 
 .. image:: https://raw.github.com/KrzysztofKielce/xaf-report-designer-script-editor/master/Screenshot1.png
 
+and
+
+.. image:: https://raw.github.com/KrzysztofKielce/xaf-report-designer-script-editor/master/Screenshot2.png
+
+and
+
+.. image:: https://raw.github.com/KrzysztofKielce/xaf-report-designer-script-editor/master/Screenshot3.png
+
+and
+
+.. image:: https://raw.github.com/KrzysztofKielce/xaf-report-designer-script-editor/master/Screenshot4.png
+
+
 **Functionality**
 
 - INTELLI-SENSE !!!
