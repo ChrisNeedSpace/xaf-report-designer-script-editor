@@ -49,7 +49,7 @@ Create a report, click on a designer, go to Scripts tab.
 -------
 Caution
 -------
-You have to download Quantum Whale dlls yourself as I do not have proprietary rights for them.
+You have to download Quantum Whale dlls yourself as the license does not allow redistribution.
 
 ------------
 Installation
