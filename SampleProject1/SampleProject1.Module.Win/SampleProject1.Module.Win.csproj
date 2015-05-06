@@ -90,23 +90,23 @@
     <Reference Include="DevExpress.XtraTreeList.v14.2, Version=14.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="QWhale.Common, Version=1.48.2776.9916, Culture=neutral, PublicKeyToken=da632fd1713dff10, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Quantum Whale\QWhale.Common.dll</HintPath>
+      <HintPath>..\Quantum Whale Evaluation\QWhale.Common.dll</HintPath>
     </Reference>
     <Reference Include="QWhale.Editor, Version=1.48.2776.9918, Culture=neutral, PublicKeyToken=da632fd1713dff10, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Quantum Whale\QWhale.Editor.dll</HintPath>
+      <HintPath>..\Quantum Whale Evaluation\QWhale.Editor.dll</HintPath>
     </Reference>
     <Reference Include="QWhale.Syntax, Version=1.48.2776.9917, Culture=neutral, PublicKeyToken=da632fd1713dff10, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Quantum Whale\QWhale.Syntax.dll</HintPath>
+      <HintPath>..\Quantum Whale Evaluation\QWhale.Syntax.dll</HintPath>
     </Reference>
     <Reference Include="QWhale.Syntax.Parsers, Version=1.48.2776.9919, Culture=neutral, PublicKeyToken=da632fd1713dff10, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Quantum Whale\QWhale.Syntax.Parsers.dll</HintPath>
+      <HintPath>..\Quantum Whale Evaluation\QWhale.Syntax.Parsers.dll</HintPath>
     </Reference>
     <Reference Include="QWhale.Syntax.Schemes, Version=1.48.2776.9919, Culture=neutral, PublicKeyToken=da632fd1713dff10, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Quantum Whale\QWhale.Syntax.Schemes.dll</HintPath>
+      <HintPath>..\Quantum Whale Evaluation\QWhale.Syntax.Schemes.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>

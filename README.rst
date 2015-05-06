@@ -46,10 +46,10 @@ Create a report, click on a designer, go to Scripts tab.
 + SampleProject1.Module.Win\\ReportDesign\\ScriptEditorService.cs
 + SampleProject1.Module.Win\\ReportDesign\\SimpleScriptEditor.cs
 
--------
-Caution
--------
-You have to download Quantum Whale Evaluation dlls yourself as the license may not allow partial redistribution.
+----
+NOTE
+----
+Project contains Quantum Whale Editor.NET **Evaluation** assemblies as I got the information from Quantum Whale support that they can be redistributed. Thank you!
 
 ------------
 Installation
